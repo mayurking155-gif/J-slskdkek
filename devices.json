@@ -1,0 +1,15 @@
+{
+    "292939": {
+        "unique_device_id": "Google|d290870e-0989-4107-b57f-ef9a440f0d33",
+        "brand": "Poco",
+        "model": "M2102J20SG",
+        "gpu_renderer": "Adreno (TM) 660",
+        "system_software": "Android OS 13 / API-33",
+        "screen_width": 1080,
+        "screen_height": 1600,
+        "screen_dpi": "319",
+        "memory": 3417,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 2206 | 8",
+        "client_ip": "113.27.81.35"
+    }
+}
